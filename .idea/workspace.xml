@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd5bc76-ec7e-4897-be53-8aafd3fdfd2d" name="Changes" comment="Funkcje: Zadanie 1">
+    <list default="true" id="5bd5bc76-ec7e-4897-be53-8aafd3fdfd2d" name="Changes" comment="Homework: Zadania 1-3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/Zadanie5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/Zadanie5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="D:\CodersLab\SeleniumCourse\src\main\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie3">
+  <component name="RunManager" selected="Application.Zadanie4">
     <configuration name="Homework.Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Zadanie1" />
       <module name="SeleniumCourse" />
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WyszukiwanieElementow.Zadanie5" />
+    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Zadanie4" />
       <module name="SeleniumCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WyszukiwanieElementow.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie4" />
         <item itemvalue="Application.Zadanie3" />
         <item itemvalue="Application.Zadanie2" />
         <item itemvalue="Application.Homework.Zadanie1" />
         <item itemvalue="Application.Zadanie1" />
-        <item itemvalue="Application.Zadanie5" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675007963292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework: Zadania 1-3">
+      <created>1675525514879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675525514879</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework: Zadania 1-3">
+      <created>1675525529911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675525529911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +186,7 @@
     <MESSAGE value="Konfiguracja: Zadania 1-3" />
     <MESSAGE value="WyszukiwanieElementow: Zadania 1-5" />
     <MESSAGE value="Funkcje: Zadanie 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funkcje: Zadanie 1" />
+    <MESSAGE value="Homework: Zadania 1-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework: Zadania 1-3" />
   </component>
 </project>
